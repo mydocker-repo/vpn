@@ -9,6 +9,13 @@ https://github.com/apernet/hysteria
 ```
 https://v2.hysteria.network/zh/docs/getting-started/Installation
 ```
+- 运行命令
+  ```
+  # 默认配置文件config.yaml
+  ./hysteria server
+  # 自定义配置文件名
+  ./hysteria server -c anyfile.yaml
+  ```
 
 ### 2. V2ray
 
