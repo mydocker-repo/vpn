@@ -22,3 +22,8 @@ https://v2.hysteria.network/zh/docs/getting-started/Installation
 ### 3. Sing-box
 
 ### 4. tuic
+
+
+## 友情链接
+1. 佬王https://github.com/eooce
+2. https://github.com/233boy
