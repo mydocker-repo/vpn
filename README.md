@@ -27,3 +27,4 @@ https://v2.hysteria.network/zh/docs/getting-started/Installation
 ## 友情链接
 1. 佬王https://github.com/eooce
 2. https://github.com/233boy
+3. https://github.com/cmliu
